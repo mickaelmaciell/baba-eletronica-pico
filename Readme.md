@@ -1,5 +1,8 @@
 # Babá Eletrônica com Raspberry Pi Pico W (BitDogLab)
 
+![ativado](https://github.com/user-attachments/assets/21371bc4-0911-4fc2-a702-1f7505bdc98b)
+
+
 ## Descrição
 Este projeto implementa uma **Babá Eletrônica** utilizando a **Raspberry Pi Pico W**. Ele monitora sons no ambiente e executa ações específicas como:
 - **Tocar uma melodia** quando sons são detectados.
